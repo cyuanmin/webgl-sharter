@@ -27,6 +27,7 @@
     "@types/enzyme": "^3.1.4",
     "@types/enzyme-adapter-react-16": "^1.0.1",
     "@types/expect": "^1.20.2",
+    "@types/gl-matrix": "^2.4.0",
     "@types/mocha": "^2.2.44",
     "@types/react": "^16.0.22",
     "@types/react-addons-test-utils": "^0.14.20",
@@ -62,6 +63,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "expect": "^21.2.1",
+    "gl-matrix": "^2.4.0",
     "jquery": "^3.2.1",
     "react": "^16.1.0",
     "react-dom": "^16.1.0",

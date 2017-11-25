@@ -1,6 +1,7 @@
 module.exports = {
     entry: {
-        "sample1": './src/sample1/index.ts'
+        "sample1": './src/sample1/index.ts',
+        "sample2": './src/sample2/index.ts'
     },
     output: {
         path: __dirname + '/dist',
