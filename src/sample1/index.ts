@@ -1,4 +1,4 @@
-import "./styles/styles.css";  
+import "../styles/styles.css";  
 
 function main(): void {
     const canvas: HTMLCanvasElement = document.querySelector("#glcanvas");
