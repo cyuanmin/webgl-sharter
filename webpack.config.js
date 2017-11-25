@@ -1,6 +1,6 @@
 module.exports = {
     entry: {
-        "qtclient": './src/index.ts'
+        "sample1": './src/sample1.ts'
     },
     output: {
         path: __dirname + '/dist',
