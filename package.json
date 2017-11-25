@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all --parallel dev test",
-    "dev": "./node_modules/.bin/webpack-dev-server",
+    "dev": "./node_modules/.bin/webpack-dev-server --host 0.0.0.0",
     "build": "webpack",
     "test": "mocha --watch --reporter spec --compilers ts:ts-node/register -r jsdom-global/register ./src/**/*.test.ts*"
   },
